@@ -1,0 +1,1 @@
+﻿In this project the ChainOfResponsibility pattern was applied.
